@@ -30,7 +30,7 @@ h1{
 @media only screen and (max-width: 486px){
     .box{
         width: 45vw;
-        height: 16vw;
+        height: 20vw;
     }
     .boxes{
         gap: 10px;
